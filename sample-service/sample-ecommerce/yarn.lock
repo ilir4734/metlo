@@ -47,10 +47,10 @@
   dependencies:
     fast-json-stringify "^5.0.0"
 
-"@fastify/multipart@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@fastify/multipart/-/multipart-6.0.0.tgz#da7e80b589b3874b3964145ec6e13fd69bd7e6cf"
-  integrity sha512-TwxPH9jE3bEaCdMD1Xqm2YS1aelgJxcNmA/uYAPCzqnVEylDiKCmxCstGulb1W5WdMoyqD5LBGm7AoqDwWTCWQ==
+"@fastify/multipart@6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@fastify/multipart/-/multipart-6.0.1.tgz#7341aa4a6da3db9b623f8decd01512b1acbffc14"
+  integrity sha512-mRZbAlaFah0K9AaWm1Pao8OJ2G73FTscn65YeX6kyCxcvpcir6QRswEuYMzY6ulaMF8OgYuUnk4MPRGrc5u+eQ==
   dependencies:
     "@fastify/busboy" "^1.0.0"
     "@fastify/error" "^2.0.0"
@@ -2147,15 +2147,10 @@ sax@>=0.6.0, sax@^1.2.4:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-secure-json-parse@^2.4.0:
+secure-json-parse@^2.4.0, secure-json-parse@^2.5.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/secure-json-parse/-/secure-json-parse-2.6.0.tgz#95d89f84adf32d76ff7800e68a673b129fe918b0"
   integrity sha512-B9osKohb6L+EZ6Kve3wHKfsAClzOC/iISA2vSuCe5Jx5NAKiwitfxx8ZKYapHXr0sYRj7UZInT7pLb3rp2Yx6A==
-
-secure-json-parse@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/secure-json-parse/-/secure-json-parse-2.5.0.tgz#f929829df2adc7ccfb53703569894d051493a6ac"
-  integrity sha512-ZQruFgZnIWH+WyO9t5rWt4ZEGqCKPwhiw+YbzTwpmT9elgLrLcfuyUiSnwwjUiVy9r4VM3urtbNF1xmEh9IL2w==
 
 semver@6.3.0, semver@^6.0.0:
   version "6.3.0"
