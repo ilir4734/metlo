@@ -44,7 +44,7 @@
     "superjson": "^1.9.1",
     "uuid": "^8.3.2",
     "whatwg-mimetype": "^3.0.0",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "@types/dagre": "^0.7.48",
